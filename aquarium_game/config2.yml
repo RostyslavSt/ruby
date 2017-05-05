@@ -1,0 +1,5 @@
+config:
+  vertical_size: 5
+  horizontal_size: 20
+  initial_crucians: 8
+  initial_pikes: 3
